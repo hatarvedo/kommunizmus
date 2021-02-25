@@ -1,0 +1,16 @@
+body{
+    background-color: wheat;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.kep{
+    border: 2px solid black;
+    float: right;
+}
+
+table, tr, td{
+    border: 2px, solid black;
+}
